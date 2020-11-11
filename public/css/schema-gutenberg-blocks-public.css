@@ -1,0 +1,55 @@
+/********/
+.wp-block-gutenberg-faq-block .tab-faq-text {
+    display: none;
+    padding: 15px;
+    background: #fff;
+}
+.wp-block-gutenberg-faq-block  p {
+    margin: 0;
+}
+.wp-block-gutenberg-faq-block .tab-faq-body p {
+    margin: 0;
+}
+.wp-block-gutenberg-faq-block {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    width: 100%;
+}
+.wp-block-gutenberg-faq-block .tab-faq-head {
+    background: #f1f1f1;
+    display: block;
+    padding: 10px 50px 10px 15px;
+    position: relative;
+	cursor:pointer;
+	border:1px solid #ccc6;
+}
+.wp-block-gutenberg-faq-block .tab-faq-head:after {
+    content: "+";
+    position: absolute;
+    right: 15px;
+    top: -2px;
+    font-size: 50px;
+	color: #ba5ffd;
+    line-height: 1;
+    font-family: inherit;
+	transition: all 0.3s ease-in-out;
+}
+.wp-block-gutenberg-faq-block .tab-faq-head.active:after {
+    transform: rotate(135deg);
+}
+/********/
+.wp-block-gutenberg-testimonial-block {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 20px;
+}
+p.testimonial-Citation-block-content {
+    margin: 0;
+}
+.wp-block-gutenberg-testimonial-block p {
+    margin: 0 0 10px;
+}
+.akdesk-schema-block-image {
+    margin-bottom: 20px;
+}

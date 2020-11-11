@@ -1,0 +1,17 @@
+.akdesk-FAQ-content {
+    padding: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    width: 100%;
+}
+.akdesk-FAQ-content:after {
+    position: absolute;
+    content: "FAQ Block By AKDesk";
+    font-size: 10px;
+    bottom: 5px;
+    color: #827e7e;
+    right: 5px;
+}
+.akdesk-Profile-content {
+    position: relative;
+    padding-bottom: 20px;
+}
