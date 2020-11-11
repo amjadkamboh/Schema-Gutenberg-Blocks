@@ -12,17 +12,16 @@ WELCOME TO THE FUTURE OF SITE BUILDING WITH GUTENBERG!
 
 == Description ==
 
-The Schema Gutenberg Blocks is now ready to use in your posts and pages. Simply search for "Schema" in the block inserter to display the Schema Blocks collection. Check out the help file link above for detailed instructions!
-
+The Schema Gutenberg Blocks is now ready to use in your posts and pages. Simply search for "Schema" in the block inserter to display the Schema Blocks collection.
 AVAILABLE SCHEMA GUTENBERG BLOCKS
 
 The following blocks are available in Schema Blocks. More blocks are on the way so stay tuned!
 
-ACCORDION BLOCK
+ACCORDION BLOCK - Schema FAQ 
 
-Add an accordion text toggle with a title and descriptive text. With Schema FAQ.
+Add an accordion text toggle with a title and descriptive text with Schema FAQ.
  
-TESTIMONIAL BLOCK
+TESTIMONIAL BLOCK - None Schema
 
 Add a customer or client testimonial to your site with an avatar, text, citation.
 
