@@ -20,23 +20,22 @@ function clivern_render_plugin_page(){
 <div class="akdesk-wrap-deah">
 	<div class="header-wrap wrap">
 	<img class="akdesk-logo" src="<?php echo esc_url( plugin_dir_url( __FILE__ ) . 'images/large-logo.png' ); ?>" alt="<?php esc_html_e( 'Visit schema gutenberg blocks', 'schema_gutenberg_blocks' ); ?>" />
-		<span>Getting started with <strong>Schema Gutenberg Blocks</strong></span>
+		<span>Getting started with <strong>Gutenberg Blocks</strong></span>
 	</div>
 	<div class="welcome-text-wrap wrap banner-padd">
 	<h2 class="section-head-adk">Welcome to the future of site building with Gutenberg!</h2>
-	<p>The Schema Gutenberg Blocks is now ready to use in your posts and pages.
-	Simply search for "Schema" in the block inserter to display the Schema Blocks collection.
-	Check out the help file link above for detailed instructions!</p>
+	<p>This Gutenberg Blocks is now ready to use in your posts and pages.
+	Simply search for "Schema" in the block inserter to display the Schema Blocks collection.</p>
 	</div>
 	<div class="Available-text-wrap wrap banner-padd">
-	<h2 class="section-head-adk black-000">Available Schema Gutenberg Blocks</h2>
-	<p>The following blocks are available in Schema Blocks. More blocks are on the way so stay tuned!</p>
+	<h2 class="section-head-adk black-000">Available Gutenberg Blocks</h2>
+	<p>The following blocks are available. More blocks are on the way so stay tuned!</p>
 	<div class="Available-block-here-akd">
-	<h3>Accordion Block</h3>
+	<h3>Accordion Block - With Schema FAQ.</h3>
 	<p>Add an accordion text toggle with a title and descriptive text. With Schema FAQ.</p>
 	</div>
 	<div class="Available-block-here-akd">
-	<h3>Testimonial Block</h3>
+	<h3>Testimonial Block - With No Schema.</h3>
 	<p>Add a customer or client testimonial to your site with an avatar, text, citation.</p>
 	</div>
 	</div>
