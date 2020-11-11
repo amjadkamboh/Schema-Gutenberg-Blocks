@@ -1,5 +1,5 @@
 === Schema Gutenberg Blocks ===
-Contributors: @amjadkamboh7
+Contributors: https://profiles.wordpress.org/amjadkamboh7/
 Donate link: amjadbashir.ui7@gmail.com
 Tags: comments, spam
 Requires at least: 3.0.1
