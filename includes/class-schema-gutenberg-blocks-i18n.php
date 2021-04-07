@@ -39,7 +39,7 @@ class Schema_Gutenberg_Blocks_i18n {
 		load_plugin_textdomain(
 			'schema-gutenberg-blocks',
 			false,
-			dirname( dirname( plugin_basename( __FILE__ ) ) ) . '/languages/'
+			dirname( dirname( plugin_basename( __FILE__ ) ) ) . '/languages/' 
 		);
 
 	}
