@@ -6,7 +6,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Register all actions and filters for the plugin
  *
  * @link       amjadbashir.ui7@gmail.com
- * @since      1.0.0
+ * @since      1.0.0 
  *
  * @package    Schema_Gutenberg_Blocks
  * @subpackage Schema_Gutenberg_Blocks/includes
